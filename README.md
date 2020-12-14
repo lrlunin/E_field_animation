@@ -11,3 +11,5 @@ First of all, I would like to thank my parents and my co-members of group #30  a
 * Moritz Meißner for organizing our meeting, during which the hometask was completed.
 
 * Matthias Schön for writing down all our solutions and saving them in PDF format.
+
+* Attila @akekesi Kekesi for inspiring and motivation.
