@@ -1,5 +1,5 @@
 # E_field_animation
-Animated time resoluted plot for homework in WS2020/21 
+Animated time resolved plot for homework in WS2020/21 
 # Usage of project
 Following jupyter notebook allows to see how E-field, described by given equation, looks like. With this notebook you can also create animated plot for oscilating E-field as in GIF below.
 
