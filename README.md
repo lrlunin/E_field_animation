@@ -8,7 +8,7 @@ Following jupyter notebook allows to see how E-field, described by given equatio
 ## Acknowledgments
 First of all, I would like to thank my parents and my co-members of group #30  as well. Namely:
 
-* Moritz Meißner for organizing our meeting, during which the hometask was completed.
+* Moritz Meißner for organizing our meeting, during which the homework was completed.
 
 * Matthias Schön for writing down all our solutions and saving them in PDF format.
 
